@@ -3,7 +3,7 @@
 namespace DevFriendlyPhpJwt;
 
 /**
- * @author Alexandre Rodrigues Xavier <alexandre.rodrigues.xv@gmail.com>
+ * @author Alexandre Rodrigues Xavier <contato@alexandrexavier.com.br>
  *
  * @package DevFriendlyPhpJwt
  */
